@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function AboutPage() {
   return (
-    <div>
+    <div className="min-h-screen">
       <motion.div
         initial={{ x: 0, y: 0, opacity: 0 }}
         animate={{ x: 0, y: 0, opacity: 1 }}
@@ -54,6 +54,16 @@ export default function AboutPage() {
             Adipiscing dictum natoque ipsum accumsan nascetur magna condimentum
             quis hac mus taciti dis habitant urna laoreet vel aenean etiam dolor
             cursus nulla justo et quisque rutrum lobortis nunc eleifend felis
+            mauris sagittis vulputate ornare curabitur vehicula dignissim pede
+            diam ligula sociosqu semper maximus amet vestibulum integer iaculis
+            per ad est Adipiscing dictum natoque ipsum accumsan nascetur magna
+            condimentum quis hac mus taciti dis habitant urna laoreet vel aenean
+            etiam dolor cursus nulla justo et quisque rutrum lobortis nunc
+            mauris sagittis vulputate ornare curabitur vehicula dignissim pede
+            diam ligula sociosqu semper maximus amet vestibulum integer iaculis
+            per ad est Adipiscing dictum natoque ipsum accumsan nascetur magna
+            condimentum quis hac mus taciti dis habitant urna laoreet vel aenean
+            etiam dolor cursus nulla justo et quisque rutrum lobortis nunc
             mauris sagittis vulputate ornare curabitur vehicula dignissim pede
             diam ligula sociosqu semper maximus amet vestibulum integer iaculis
             per ad est Adipiscing dictum natoque ipsum accumsan nascetur magna

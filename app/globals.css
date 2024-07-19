@@ -148,3 +148,17 @@
     }
   }
 }
+
+.swiper-pagination-bullet {
+  width: 12px !important;
+  height: 12px !important;
+  background: rgba(255, 255, 255, 0.2);
+  scale: 0.9 !important;
+  border: 1px solid black;
+}
+
+.swiper-pagination-bullet-active {
+  color: #fff;
+  background: #003b2f !important;
+  scale: 1 !important ;
+}
