@@ -5,7 +5,7 @@ export type NavItem = {
 
 export const NAV_ITEMS: NavItem[] = [
   {
-    title: " Featured pieces",
+    title: " Featured",
     path: "/featured",
   },
   {

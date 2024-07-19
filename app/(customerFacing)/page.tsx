@@ -2,14 +2,14 @@
 import Image from "next/image";
 import { useRef } from "react";
 import gsap from "gsap";
-import floating1 from "../public/images/img_1.jpeg";
-import floating2 from "../public/images/img_2.jpeg";
-import floating3 from "../public/images/test.png";
-import floating4 from "../public/images/img_4.jpeg";
-import floating5 from "../public/images/img_5.jpeg";
-import floating6 from "../public/images/img_5.jpeg";
-import floating7 from "../public/images/img_5.jpeg";
-import floating8 from "../public/images/img_5.jpeg";
+import floating1 from "../../public/images/img_1.jpeg";
+import floating2 from "../../public/images/img_2.jpeg";
+import floating3 from "../../public/images/test.png";
+import floating4 from "../../public/images/img_4.jpeg";
+import floating5 from "../../public/images/img_5.jpeg";
+import floating6 from "../../public/images/img_5.jpeg";
+import floating7 from "../../public/images/img_5.jpeg";
+import floating8 from "../../public/images/img_5.jpeg";
 
 export default function Home() {
   const plane1 = useRef(null);

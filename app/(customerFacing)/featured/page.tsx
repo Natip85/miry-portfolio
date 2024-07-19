@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import "../globals.css";
+import "../../globals.css";
 import ImageSlider from "@/components/ImageSlider";
 
 export default function FeaturedPage() {
